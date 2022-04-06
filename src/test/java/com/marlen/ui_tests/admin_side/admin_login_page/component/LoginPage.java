@@ -1,4 +1,4 @@
-package com.marlen.ui_tests.admin_side.login_page.component;
+package com.marlen.ui_tests.admin_side.admin_login_page.component;
 
 import common.BasePage;
 import drivers.DriverManager;

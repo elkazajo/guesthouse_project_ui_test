@@ -1,6 +1,6 @@
-package com.marlen.ui_tests.admin_side.login_page.steps;
+package com.marlen.ui_tests.admin_side.admin_login_page.steps;
 
-import com.marlen.ui_tests.admin_side.login_page.component.LoginPage;
+import com.marlen.ui_tests.admin_side.admin_login_page.component.LoginPage;
 import io.cucumber.java.en.When;
 
 public class LoginPageSteps {
