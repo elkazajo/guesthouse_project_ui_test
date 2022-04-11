@@ -40,4 +40,14 @@ public class Header {
         return header;
     }
 
+    public Map<String, String> authorisation() {
+        Map<String, String> header = new HashMap<>();
+        header.put("Content-Type", "application/json");
+        header.put("Accept", "application/json");
+        header.put("Cookie", "token=e03690ad262b5d4");
+        header.put("username", "admin");
+        header.put("password", "password123");
+        return header;
+    }
+
 }
